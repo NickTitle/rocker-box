@@ -1,7 +1,7 @@
 rocker-box
 ==========
 
-simple a/b routing for static pages
+simple a/b/c/d/etc... routing for static pages
 
 1. Create a folder to fill with static assets (or use "statics", which I provided)
 2. To serve from flat html files in your ```:statics_folder```, set the value of ```:deep_or_flat_structure``` to ```'flat'``` in the init method
