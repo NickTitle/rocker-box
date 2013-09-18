@@ -9,6 +9,8 @@ def init
 	set :statics_folder, 'statics'
 	set :deep_or_flat_structure, 'flat'
 
+	set :public_folder, settings.statics_folder
+
 	set :page_pool, page_pool()
 end
 
